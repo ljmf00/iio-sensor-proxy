@@ -148,5 +148,6 @@ Tested on
 - Lenovo IdeaTab Miix2 8
 - Microsoft Surface Pro 2
 - Onda v975w
+- Teclast F6 Pro
 - Toshiba Portégé Z10t
 - Toshiba Radius 11 L10WC10C
